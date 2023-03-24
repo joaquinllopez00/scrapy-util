@@ -1,7 +1,7 @@
 {
-  "name": "typescript-starter",
-  "version": "1.0.0",
-  "description": "A basic typescript app starter for 2023.",
+  "name": "scrapy-util",
+  "version": "0.0.1",
+  "description": "ScrapyUtil library and supporting utility classes..",
   "main": "index.js",
   "scripts": {
     "build": "rimraf ./build && tsc",
