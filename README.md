@@ -1,15 +1,5 @@
 # ScrapyUtil
 
-### Features
-
-- Minimal
-- TypeScript v4
-- Testing with Jest
-- Linting with Eslint and Prettier
-- Pre-commit hooks with Husky
-- VS Code debugger scripts
-- Local development with Nodemon
-
 ### Scripts
 
 #### `npm run start:dev`
